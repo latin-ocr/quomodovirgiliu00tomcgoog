@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quomodovirgiliu00tomcgoog_0005.png"; bbox 0 0 3892 5642; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1210 799 2488 942">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1210 799 2488 942">
+     <span class='ocr_line' id='line_1_1' title="bbox 1210 799 2488 942; baseline -0.002 -1.962"><span class='ocrx_word' id='word_1_1' title='bbox 1210 842 1296 940; x_wconf 80' lang='lat' dir='ltr'><strong>A</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1345 799 2488 942; x_wconf 62' lang='lat' dir='ltr'><strong>JEZUS-TARSASAGI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 671 1198 2956 2078">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 729 1198 2956 2078">
+     <span class='ocr_line' id='line_1_2' title="bbox 729 1198 2956 1519; baseline -0.001 -68"><span class='ocrx_word' id='word_1_3' title='bbox 729 1244 1375 1519; x_wconf 67' lang='lat' dir='ltr'>fflosssffl</span> <span class='ocrx_word' id='word_1_4' title='bbox 1464 1198 1927 1452; x_wconf 69' lang='lat' dir='ltr'>ERsEffl</span> <span class='ocrx_word' id='word_1_5' title='bbox 2025 1198 2956 1467; x_wconf 67' lang='lat' dir='ltr'><strong>FOGYMNASHJM</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 671 1636 2764 2078; baseline -0.001 -2.857"><span class='ocrx_word' id='word_1_6' title='bbox 671 1636 2567 2078; x_wconf 80' lang='lat' dir='ltr'>ERTESITOJ</span> <span class='ocrx_word' id='word_1_7' title='bbox 2590 1813 2764 2074; x_wconf 92' lang='grc' dir='ltr'><em>Ε</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1077 2607 2640 2761">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1077 2607 2640 2761">
+     <span class='ocr_line' id='line_1_4' title="bbox 1077 2607 2640 2761; baseline -0.001 -49"><span class='ocrx_word' id='word_1_8' title='bbox 1077 2634 1617 2736; x_wconf 79' lang='lat'>1883—1884.</span> <span class='ocrx_word' id='word_1_9' title='bbox 1680 2633 2156 2761; x_wconf 74' lang='lat' dir='ltr'>ISKOLAI</span> <span class='ocrx_word' id='word_1_10' title='bbox 2214 2607 2640 2712; x_wconf 50' lang='lat' dir='ltr'><strong>EVRcssL.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1440 3364 2315 4180">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1440 3364 2315 4180">
+     <span class='ocr_line' id='line_1_5' title="bbox 1440 3364 2315 4180; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 1440 3364 2315 4180; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
